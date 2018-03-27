@@ -1,0 +1,13 @@
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/App/Motor_Control/motor_cnm.c
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/rtwtypes.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/limits.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/App/EPP_Moduel/Epp_types.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:\BuildArea\EPP_Application_ZL\App\Motor_Control\motor_cnm.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/App/DataType/t_types.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/App/App_cald/app_cald.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:\BuildArea\EPP_Application_ZL\App\App_cald\scale_cal.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/hal_pulse.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/hal_analog.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/hal_discrete_io.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/App/CAN_Matrix/can_matrix.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\motor_cnm.o: E:/BuildArea/EPP_Application_ZL/App/IOMM/iomm.h

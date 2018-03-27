@@ -1,0 +1,9 @@
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:/BuildArea/EPP_Application_ZL/UDS/NetWork_Layer/NetworkLayerServices_GF.c
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:\BuildArea\EPP_Application_ZL\UDS\NetWork_Layer\NetworkLayerServices_GF.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/rtwtypes.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/limits.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:\BuildArea\EPP_Application_ZL\UDS\NetWork_Layer\NetworkLayerServices_GF_types.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:\BuildArea\EPP_Application_ZL\UDS\NetWork_Layer\networklayer_interface.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:\BuildArea\EPP_Application_ZL\UDS\NetWork_Layer\NetworkLayerServices_GF_private.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:/BuildArea/EPP_Application_ZL/UDS/Service_Layer/AppLayer_Uds.h
+E:\BuildArea\EPP_Application_ZL\Products\objs_EPP_APP\NetworkLayerServices_GF.o: E:/BuildArea/EPP_Application_ZL/Tools/C28X/include/DSP2803x_function.h

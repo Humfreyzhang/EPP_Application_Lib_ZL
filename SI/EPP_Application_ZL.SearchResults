@@ -1,0 +1,3 @@
+---- OSTK_Powerup_Task Matches (2 in 2 files) ----
+Os_task.c (e:\buildarea\epp_application_zl\app\os_task):void OSTK_Powerup_Task(void)
+Os_task.h (e:\buildarea\epp_application_zl\app\os_task):extern void OSTK_Powerup_Task(void);
